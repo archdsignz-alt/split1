@@ -1,0 +1,5 @@
+{
+  "name": "Flatmate Bill Splitter",
+  "description": "An app to split rent, wifi, council tax, water, and electric bills between two flatmates.",
+  "requestFramePermissions": []
+}
